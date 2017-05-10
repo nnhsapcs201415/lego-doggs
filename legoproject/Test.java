@@ -1,20 +1,20 @@
 
 
 /**
- * Write a description of class Motorcontrol here.
+ * Write a description of class Test here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Motorcontrol
+public class Test
 {
     /** description of instance variable x (add comment for each instance variable) */
     private int x;
 
     /**
-     * Default constructor for objects of class Motorcontrol
+     * Default constructor for objects of class Test
      */
-    public Motorcontrol()
+    public Test()
     {
         // initialise instance variables
         x = 0;
